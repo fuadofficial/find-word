@@ -4,3 +4,16 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+
+.data {
+  padding: 20px;
+}
+
+.data h2 {
+  margin: 10px 0;
+}
+
+.data h1 {
+  text-align: center;
+  margin: 20px;
+}
