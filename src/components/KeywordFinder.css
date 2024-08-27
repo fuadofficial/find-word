@@ -1,0 +1,12 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 50px;
+}
+
+.high_light {
+  background-color: #fed8b1;
+}
+.high_light1 {
+  background-color: #e96303;
+}
