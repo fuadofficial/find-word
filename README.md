@@ -1,8 +1,17 @@
-# React + Vite
+🔍 Find Word Project
+A React-based project that enhances text search on your website by allowing users to highlight specific letters or words.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project replicates the familiar "Ctrl + F" browser functionality but adds custom highlighting styles and a more interactive search experience.
 
-Currently, two official plugins are available:
+🛠️ Features
+Input Activation: Press Ctrl + F to open a custom input box for searching text.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time Highlighting: As you type in the input box, all occurrences of the searched letter or word in the content are highlighted.
+
+Navigation Buttons: Easily navigate between highlighted instances using Next and Previous buttons.
+
+Dynamic Count: Display the total count of highlighted words and track your current position among them.
+
+Custom Highlighting: Customize the appearance of the highlighted text with dark orange for the current instance and light orange for others.
+
+Responsive Design: The project is fully responsive, ensuring a smooth experience across all devices.
