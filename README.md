@@ -15,3 +15,7 @@ Dynamic Count: Display the total count of highlighted words and track your curre
 Custom Highlighting: Customize the appearance of the highlighted text with dark orange for the current instance and light orange for others.
 
 Responsive Design: The project is fully responsive, ensuring a smooth experience across all devices.
+
+
+
+![image alt](https://github.com/fuadofficial/find-word/blob/master/Vite%20+%20React%20-%20Google%20Chrome%209_1_2024%206_18_39%20AM.png?raw=true)
