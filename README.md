@@ -1,9 +1,13 @@
-🔍 Find Word Project
+![image alt](https://github.com/fuadofficial/find-word/blob/master/Vite%20+%20React%20-%20Google%20Chrome%209_1_2024%206_18_39%20AM.png?raw=true)
+
+
+
+# 🔍 Find Word Project
 A React-based project that enhances text search on your website by allowing users to highlight specific letters or words.
 
 This project replicates the familiar "Ctrl + F" browser functionality but adds custom highlighting styles and a more interactive search experience.
 
-🛠️ Features
+## 🛠️ Features
 Input Activation: Press Ctrl + F to open a custom input box for searching text.
 
 Real-time Highlighting: As you type in the input box, all occurrences of the searched letter or word in the content are highlighted.
@@ -18,4 +22,3 @@ Responsive Design: The project is fully responsive, ensuring a smooth experience
 
 
 
-![image alt](https://github.com/fuadofficial/find-word/blob/master/Vite%20+%20React%20-%20Google%20Chrome%209_1_2024%206_18_39%20AM.png?raw=true)
