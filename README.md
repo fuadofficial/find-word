@@ -1,7 +1,7 @@
 ![image alt](https://github.com/fuadofficial/find-word/blob/master/Vite%20+%20React%20-%20Google%20Chrome%209_1_2024%206_18_39%20AM.png?raw=true)
 
 
-
+   
 # 🔍 Find Word Project
 A React-based project that enhances text search on your website by allowing users to highlight specific letters or words.
 
